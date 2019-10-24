@@ -1,0 +1,9 @@
+Se introduce el numero de la cuenta y el nip, 
+
+*en caso de ser correcto se llega al siguiente menú:
+
+Preguntarle si su nombre es correcto, 
+de caso de afirmar continuar
+
+Ejemplo: Bienvenido, ¿ Te llamas juan? *Aceptar *Rechazar
+Retirar (
